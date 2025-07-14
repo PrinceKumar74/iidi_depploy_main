@@ -136,14 +136,14 @@ const Footer = () => {
               <span className="text-gray-400 break-all">info@internationalinstituteofdataintelligence.com</span>
             </div>
 
-            <div className="flex items-center mb-4">
+            {/* <div className="flex items-center mb-4">
               <FaAddressBook className="text-[#b42638] mr-2" size={40} />
               <span className="text-gray-400">
 
                 Address- Vijay Laxmi Enclave, Opposite St. Mary’s Senior School, Gangapur Road, Rudrapur, Uttarakhand, 263153
 
               </span>
-            </div>
+            </div> */}
             {/* <div className="flex items-center mb-4">
               <FaAddressBook className="text-[#b42638] mr-2" size={33} />
               <span className="text-gray-400">

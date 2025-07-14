@@ -6,10 +6,10 @@ import Terms from "./components/pages/Services/Terms";
 import Contact from "./components/pages/ContactUs/Contact";
 import Footer from "./components/pages/Footer/Footer";
 import Header from "./components/pages/Header/Header";
-import Blogs from "./components/pages/Blogs/Blogs";
+// import Blogs from "./components/pages/Blogs/Blogs";
 import CourseDetailPage from "./components/pages/Course/CourseDetailPage";
 import Course from "./components/pages/Course/Course";
-import BlogDetailPage from "./components/pages/Blogs/BlogDetailPage";
+// import BlogDetailPage from "./components/pages/Blogs/BlogDetailPage";
 import NotFound from "./components/pages/NotFound/NotFound";
 import Privacy from "./components/pages/Services/Privacy";
 import WhatsappIcon from "./components/pages/WhatsappIcon/WhatsappIcon";
@@ -40,17 +40,17 @@ const App = () => {
             </Layout>
           } />
           
-          <Route path="/blogs" element={
+          {/* <Route path="/blogs" element={
             <Layout title="Blog Articles | IIDI" description="Read our latest blog posts">
               <Blogs />
             </Layout>
-          } />
+          } /> */}
           
-          <Route path="/blogs/:blogSlug" element={
+          {/* <Route path="/blogs/:blogSlug" element={
             <Layout title="Blog Post | IIDI" description="Read this interesting article">
               <BlogDetailPage />
             </Layout>
-          } />
+          } /> */}
           
           <Route path="/course" element={
             <Layout title="Our Courses | IIDI" description="Explore our educational courses">
