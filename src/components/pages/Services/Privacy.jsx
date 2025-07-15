@@ -258,7 +258,7 @@ const PrivacyPolicy = () => {
               <p className="text-gray-700">Attn: Data Protection Officer
               </p>
             </div>
-            <div className="mb-4">
+            {/* <div className="mb-4">
               <h3 className="font-medium text-gray-800 mb-1">Mailing Addresses</h3>
               <address className="text-gray-700 not-italic">
                 India: Near Gaba Chowk, Kashipur Road, Rudrapur-263153, Distt. Udham Singh Nagar
@@ -267,14 +267,14 @@ const PrivacyPolicy = () => {
                 Australia : 1248 High St Rd, wantirna South vic 3152.<br />
 
               </address>
-            </div>
+            </div> */}
             <div className="mb-4">
               <h3 className="font-medium text-gray-800 mb-1">Email: </h3>
-              <p className="text-gray-700">info@iidataintelligence.com</p>
+              <p className="text-gray-700">info@internationalinstituteofdataintelligence.com</p>
             </div>
             <div>
               <h3 className="font-medium text-gray-800 mb-1">Phone: </h3>
-              <p className="text-gray-700">+91 7251947000</p>
+              <p className="text-gray-700">+91 9761954123</p>
             </div>
           </div>
 
