@@ -140,14 +140,16 @@ const AboutIIDI = () => {
 
         {/* Introductory Paragraph */}
         <p className="text-lg text-gray-700 text-center max-w-4xl mx-auto mb-16">
-          At the International Institute of Data Intelligence (IIDI), we don’t just teach data—we transform careers.
-          We believe data is the most powerful tool of the digital age, and we’re here to help you master it.
-          Our mission is simple: to empower students, professionals, and organizations through hands-on,
-          industry-relevant education that creates real-world impact.
+          The International Institute of Data Intelligence is not only about learning
+          numbers and statistics--we transform careers. We think that data is the most
+          powerful tool of the digital age, and we are here to help you master it. This
+          is what we do: offer hands-on education that matters to industry professionals
+          like yourselves but can also benefit ordinary members of society in practical
+          terms.
           <br />
-          With a global footprint, expert mentors, and strong ties to leading companies, IIDI offers a launchpad
-          for future-ready careers in data science, AI, analytics, and full-stack development. Join a learning
-          community that values innovation, mentorship, and job readiness—where your growth is our priority.
+          Become part of a community that champions innovation, offers personal guidance,
+          and fosters real career advancement — because at IIDI, your success is our top
+          priority.
         </p>
 
         {/* Why IIDI Section */}

@@ -21,11 +21,10 @@ const AboutHeroSection = () => {
           </h2>
 
           <p className="text-base md:text-lg leading-relaxed text-white/90">
-            International Institute of Data Intelligence (IIDI) is a leading upskilling platform committed to shaping the future of tech education. Founded with the vision to empower students and professionals with in-demand digital skills, IIDI specializes in delivering high-quality certification courses.
-
+           The International Institute of Data Intelligence (IIDI) is a leading resource for training people about life in today's era of technology.Obtaining top certifications in many programs - we provide people with the newest skills in digital media as wellThis summer, whether you want to enter the workforce with added leverage or just brush up and upgrade yourself, we welcome you to join us.
             <br /><br />
 
-            At IIDI, we believe that the future belongs to those who adapt, learn, and lead with technology. Our curriculum is designed in collaboration with industry experts to ensure learners gain practical, job-ready skills aligned with current market demands. With a focus on real-world applications, interactive learning, and mentorship, IIDI stands out as a trusted destination for tech upskilling.
+           We are convinced at IIDI that those adapt, educated with technology will lead the future.Produced in cooperation with industry experts, our curriculum ensures practical job-ready skills that follow the market and can be used anywhere.With a strong commitment to real-world applications and hands-on mentoring, IIDI has become the go-to place for tech upskilling.
           </p>
         </div>
       </div>
