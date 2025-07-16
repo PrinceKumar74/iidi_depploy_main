@@ -16,20 +16,19 @@ const AcknowledgementOfCountry = () => {
             </h1>
 
             <p className="text-lg text-gray-700 mb-6">
-              At the International Institute of Data Intelligence (IIDI), we
-              acknowledge the traditional custodians of the land on which we
-              operate, and we pay our respects to the Aboriginal and Torres
-              Strait Islander peoples. We honor their enduring connection to the
-              land, waters, and culture, which has been passed down for
-              thousands of years.
+              The International Institute of Data Intelligence (IIDI)
+              recognizes the traditional custodians of this land and pays
+              its respect to aboriginal Torres Strait Islander people We acknowledge
+              and appreciate that their spiritual bond with land, sea and culture past
+              unbroken for thousands upon thousands of years.
             </p>
 
             <p className="text-lg text-gray-700 mb-8">
-              We recognize the invaluable knowledge systems and contributions of
-              Indigenous communities and are committed to integrating these
-              perspectives into our education. IIDI strives to foster an
-              inclusive environment where diversity, cultural awareness, and
-              reconciliation are prioritized in every learning experience
+              We acknowledge gratefully the knowledge systems and input of indigenous
+              peoples in helping to shape our perspective on these issues, but that
+              means integrating it into education. To this end IIDI works diligently to
+              promote an inclusive environment in which diversity, cultural awareness
+              and reconciliation  is always paramount.
             </p>
           </div>
 
