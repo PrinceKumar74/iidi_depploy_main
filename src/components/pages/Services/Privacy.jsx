@@ -18,28 +18,28 @@ const PrivacyPolicy = () => {
         <section className="mb-10">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">1. Introduction</h2>
           <p className="text-gray-700 mb-4 leading-relaxed">
-            At the International Institute of Data Intelligence (IIDI) (“Institute,” “we,” “our,” or “us”), we are
-            dedicated to safeguarding your privacy and protecting the personal information you share with us. This
-            Privacy Policy outlines how we collect, use, store, and disclose your information when you visit our
-            website (internationalinstituteofdataintelligence.com) or engage with our programs, courses, or related
-            services.
+            At the International Institute of Data Intelligence (hereinafter referred as the "Institute," "we," "our," or "us"),
+            we respect your privacy and are committed to protecting the personal information that you share with us. This Privacy
+            Policy explains how we collect, use, save and disclose your information when you visit our website (internationalinstituteofdataintelligence.com)
+            or participate in our courses, programs or associated services.
           </p>
           <p className="text-gray-700 leading-relaxed">
-            By using our website or enrolling in our programs, you consent to the practices described in this policy.
-            If you disagree with any part of this policy, please discontinue the use of our services.
+            You agree to all of the terms mentioned in this document if you use our website or join any of our programs.
+            Please desist from doing so if there is any part that you dislike
           </p>
         </section>
 
         <section className="mb-10">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">2. Information We Collect</h2>
           <p className="text-gray-700 mb-4 leading-relaxed">
-            We collect various types of information to ensure high-quality service delivery, security, and
-            personalized academic experiences:
+            We collect different types of information to offer
+            you better services, maintain security,
+            and give you a personalised learning experience.
           </p>
           <div className="mb-6">
             <h3 className="text-lg font-medium text-gray-700 mb-2">Personal Identification Information</h3>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
-              <li>Full name, email address, phone number, and mailing address </li>
+              <li>Your full name, email ID, phone number, and address</li>
               <li>Educational qualifications and professional background </li>
               <li>Organization name and role (for business partnerships or B2B services)</li>
               <li>Account login credentials (username and encrypted password)

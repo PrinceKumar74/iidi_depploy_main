@@ -8,7 +8,7 @@ const HeroSection = () => {
       {/* Decorative elements */}
       <div className="absolute inset-0 overflow-hidden opacity-20">
         <div className="absolute top-20 left-10 w-32 h-32 bg-[#ffffff] rounded-full mix-blend-overlay"></div>
-        <div className="absolute bottom-10 right-20 w-40 h-40 bg-[#ffffff]  rounded-full mix-blend-overlay"></div>
+        <div className="absolute bottom-10 right-20 w-40 h-40 vbg-[#ffffff]  rounded-full mix-blend-overlay"></div>
       </div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
