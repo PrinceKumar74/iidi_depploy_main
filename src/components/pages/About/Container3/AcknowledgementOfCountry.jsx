@@ -17,10 +17,11 @@ const AcknowledgementOfCountry = () => {
 
             <p className="text-lg text-gray-700 mb-6">
               The International Institute of Data Intelligence (IIDI)
-              recognizes the traditional custodians of this land and pays
+              recognizes the traditional custodians 
+              {/* of this land and pays
               its respect to aboriginal Torres Strait Islander people We acknowledge
               and appreciate that their spiritual bond with land, sea and culture past
-              unbroken for thousands upon thousands of years.
+              unbroken for thousands upon thousands of years. */}
             </p>
 
             <p className="text-lg text-gray-700 mb-8">
