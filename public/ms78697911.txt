@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "internationalinstituteofdataintelligence.com",
+  "Id": "d64dffe6-9240-4daa-b0fa-ad5a79b02c61"
+}
